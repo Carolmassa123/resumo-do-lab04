@@ -4,6 +4,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 Arquitetura do Azure:
 
 Regiões e zonas de disponibilidade: arquitetura física do Azure, entender como criar os recursos de nuvem.
+
 Assinaturas e grupos de recursos: organização de recursos na cloud.
 
 Componentes de arquitetura:
@@ -31,6 +32,7 @@ Assinaturas do Azure: desenvolvimento, teste e produção. TOdas podem estar num
 Uma assinatura fornece acesso auteticado e autorizado.
 
 Limite de cobrança: gere relatórios de cobrança e faturas separados para cada assinatura.
+
 Limite do controle de acesso: cada um tem apenas o acesso que precisa.
 
 Hierarquia: Grupos de gerenciamento -> Assinaturas -> grupos de recursos -> recursos
