@@ -2,10 +2,12 @@
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab Componentes de Arquitetura no Azure na DIO.
 
 Arquitetura do Azure:
+
 Regiões e zonas de disponibilidade: arquitetura física do Azure, entender como criar os recursos de nuvem.
 Assinaturas e grupos de recursos: organização de recursos na cloud.
 
 Componentes de arquitetura:
+
 Regiões: onde podemos criar clouds. Quanto mais parto, mais rápido. Nem todos os recursos estão disponíveis em todas as regiões.
 * Azure tem mais de 60 regiões.
 Regiões têm um ou mais datacenters próximos, isso fornece felixibilidade e escala para reduzir latência (ter alta performance). Regiões preservam a residência dos dados com abrangência de conformidade. São como uma sala com vários armários (zonas de disponibilidades) que possuem várias gavetas (datacenters). 
